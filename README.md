@@ -111,7 +111,7 @@ During Week 2 of the Cybersecurity & Ethical Hacking internship, practical activ
 ## 8. Evidence
 All execution outputs, terminal logs, and graphical topologies have been captured and stored locally in the `Screenshots/` directory.
 
-https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/1.png
+[https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/1.png](https://raw.githubusercontent.com/thalewalan/Penetration-Testing-Report-Week2/main/screenshots/1.png)
 https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/2.png
 https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/3.png
 https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/4.png
