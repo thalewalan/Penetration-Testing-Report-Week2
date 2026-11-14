@@ -107,3 +107,5 @@ To satisfy network discovery requirements, a host discovery ping scan (`nmap -sn
 ## 7. Conclusion
 
 During Week 2 of the Cybersecurity & Ethical Hacking internship, practical activities covering footprinting, reconnaissance, and network scanning were successfully completed. The exercises demonstrated that comprehensive information gathering is a critical foundational step in security assessments. By systematically analyzing domain registries, HTTP headers, DNS configurations, and local subnet topologies, security professionals gain deep insight into target environments while adhering strictly to authorized scopes.
+
+## 8. Evidence
