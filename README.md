@@ -111,15 +111,13 @@ During Week 2 of the Cybersecurity & Ethical Hacking internship, practical activ
 ## 8. Evidence
 All execution outputs, terminal logs, and graphical topologies have been captured and stored locally in the `Screenshots/` directory.
 
-| # | Evidence Description | File Reference |
-| :-: | :--- | :--- |
-| **1** | WHOIS domain registration output | `screenshots/1.png` |
-| **2** | WhatWeb technology fingerprinting results | `screenshots/2.png` |
-| **3** | Nslookup target resolution output | `screenshots/3.png` |
-| **4** | Curl (-I) HTTP header inspection response | `screenshots/4.png` |
-| **5** | Wafw00f ModSecurity WAF detection banner | `screenshots/5.png` |
-| **6** | DNSRecon comprehensive record enumeration | `screenshots/6.png` |
-| **7** | theHarvester OSINT extraction (Baidu module) | `screenshots/7.png` |
-| **8** | Zenmap ping scan command configuration | `screenshots/8.png` |
-| **9** | Zenmap host discovery active nodes output | `screenshots/9.png` |
-| **10** | Zenmap network topology node map & legend | `screenshots/10.png` |
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/1.png
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/2.png
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/3.png
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/4.png
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/5.png
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/6.png
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/7.png
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/8.png
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/9.png
+https://github.com/thalewalan/Penetration-Testing-Report-Week2/blob/main/screenshots/10.png
