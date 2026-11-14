@@ -109,3 +109,17 @@ To satisfy network discovery requirements, a host discovery ping scan (`nmap -sn
 During Week 2 of the Cybersecurity & Ethical Hacking internship, practical activities covering footprinting, reconnaissance, and network scanning were successfully completed. The exercises demonstrated that comprehensive information gathering is a critical foundational step in security assessments. By systematically analyzing domain registries, HTTP headers, DNS configurations, and local subnet topologies, security professionals gain deep insight into target environments while adhering strictly to authorized scopes.
 
 ## 8. Evidence
+All execution outputs, terminal logs, and graphical topologies have been captured and stored locally in the `Screenshots/` directory.
+
+| # | Evidence Description | File Reference |
+| :-: | :--- | :--- |
+| **1** | WHOIS domain registration output | `screenshots/1.png` |
+| **2** | WhatWeb technology fingerprinting results | `screenshots/2.png` |
+| **3** | Nslookup target resolution output | `screenshots/3.png` |
+| **4** | Curl (-I) HTTP header inspection response | `screenshots/4.png` |
+| **5** | Wafw00f ModSecurity WAF detection banner | `screenshots/5.png` |
+| **6** | DNSRecon comprehensive record enumeration | `screenshots/6.png` |
+| **7** | theHarvester OSINT extraction (Baidu module) | `screenshots/7.png` |
+| **8** | Zenmap ping scan command configuration | `screenshots/8.png` |
+| **9** | Zenmap host discovery active nodes output | `screenshots/9.png` |
+| **10** | Zenmap network topology node map & legend | `screenshots/10.png` |
